@@ -1,9 +1,10 @@
-#marqueeStyle{
+#marqueeStyle {
 	background-color: skyblue;
 	font-size: 30px;
 	font-family: 'Sigmar One', cursive;
 }
-#yep{
+
+#yep {
 	border: 3px;
 	border-style: dashed;
 	height: 400px;
@@ -13,73 +14,139 @@
 	margin-top: 15px;
 	border-color: chocolate
 }
-body{
+
+body {
 	text-align: center;
 	background-color: gold
-		
 }
-#mapa{
+
+#mapa {
 	font-family: 'Limelight', cursive;
 }
-#dot{
+
+#dot {
 	font-family: 'Cinzel Decorative', cursive;
 }
-#so{
+
+#so {
 	background-color: hotpink
 }
-#main{
-    background-color: lightgreen
+
+#main {
+	background-color: lightgreen
 }
-#dat{
-	 background-color: lightblue
+
+#dat {
+	background-color: lightblue
 }
-#about{
-	 background-color: lightblue
+
+#about {
+	background-color: lightblue
 }
-#hard{
+
+#hard {
 	font-family: 'Big Shoulders Display', cursive;
+	font-size: 25px
 }
-.line{
-    height: 6px;
-    background-color: black;
-    width: 200px;
-    margin: 8px;
+
+.line {
+	height: 6px;
+	background-color: black;
+	width: 200px;
+	margin: 8px;
 }
-#d{
+
+#d {
 	margin-top: 15px;
 	margin-bottom: 15px
 }
-.fine{
-height: 4px;
-    background-color: black;
-    width: 50px;
-    margin: 8px;	
+
+.fine {
+	height: 4px;
+	background-color: black;
+	width: 50px;
+	margin: 8px;
+}
+#sotu{
+	border: 15px;
+    margin-left: 225px;
 }
 
-#du{
+#du {
 	border: 20px;
 	border-style: groove;
 	border-color: saddlebrown;
 	border-spacing: 0px;
 	padding: 0px;
 	text-align: center;
-	
+	margin-left: 100px;
+	margin-top: 15px;
+	margin-bottom: 15px
 }
-#o{
-	background-color: lightcoral
-}
-#s{
+
+#o {
+	background-color: lightcoral;
 	
+	border: 15px;
+	border-style: outset;
+	border-color: lightskyblue;
+}
+
+#s {
+	font-size: 19px;
 	font-family: 'Pattaya', sans-serif;
 }
-#gallery{
-background-color: cyan	
+
+#gallery {
+	background-color: cyan;
+	text-align: center;
+	margin-left: 100px;
 }
-#loves{
+
+#loves {
 	background-color: #F7CAC9;
-	align-content: center
+	text-align: center;
+	margin-left: 0px;
 }
-#all{
+
+#all {
 	height: 100%;
 	width: 40%
+}
+#duhhu {
+	height: 100%;
+	width: 60%
+}
+#mainso2{
+	font-family: 'Cormorant Garamond', serif;
+}
+#z{
+	font-family: 'Cormorant Garamond', serif;
+}
+#x{
+	background-color: #9B2335
+}
+#t{
+	background-color: #DFCFBE
+}
+#11{
+	background-color: #E15144
+}
+#tothem{
+	background-color: #7fcdcd ;
+	margin-left: 100px;
+}
+#king{
+	font-family: 'PT Mono', monospace;
+	font-size: 19px;
+}
+#dhotua{
+	font-family: 'Lato', sans-serif;
+}
+#tutu {
+	background-color: lightpink;
+	
+	border: 15px;
+	border-style: outset;
+	border-color: mediumpurple;
 }
