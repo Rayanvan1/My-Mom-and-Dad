@@ -142,6 +142,7 @@ body {
 }
 #dhotua{
 	font-family: 'Lato', sans-serif;
+	font-size: 20px
 }
 #tutu {
 	background-color: lightpink;
@@ -149,4 +150,8 @@ body {
 	border: 15px;
 	border-style: outset;
 	border-color: mediumpurple;
+}
+#qw{
+	border: 15px;
+    margin-left: 100px;
 }
