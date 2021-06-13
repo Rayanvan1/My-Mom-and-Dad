@@ -17,7 +17,7 @@
 
 body {
 	text-align: center;
-	background-color: gold
+ background-color: gold;
 }
 
 #mapa {
@@ -139,6 +139,7 @@ body {
 #king{
 	font-family: 'PT Mono', monospace;
 	font-size: 19px;
+	
 }
 #dhotua{
 	font-family: 'Lato', sans-serif;
@@ -154,4 +155,60 @@ body {
 #qw{
 	border: 15px;
     margin-left: 100px;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    font-size: 25px;
+	color: aqua;
+text-decoration: underline;
+
+}
+#yashu{
+	font-family: 'PT Sans', sans-serif;
+}
+#contact{
+	background-color: #B57EDC;
+	margin-left: 100px;
+	border-radius: 20px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	border: 15px;
+	border-style: ridge;
+	border-color: lightskyblue
+}
+#contact56{
+	background-color: #D198F9;
+	margin-left: 300px;
+	border-radius: 20px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	border: 15px;
+	border-style: ridge;
+	border-color: lightskyblue
+}
+#niceo{
+	background-color: #E15144;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+#contact57{
+	background-color: #EEB4FF;
+	margin-left: 100px;
+	border-radius: 20px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+    border: 15px;
+	border-style: ridge;
+	border-color:  lightskyblue
+}
+#foto{
+	border: 5px;
+	border-style: solid
 }
